@@ -2,7 +2,7 @@
 
 Charles Bridge is a historic bridge that crosses the Vltava river in Prague. It is famous for its Gothic design and statues.
 
-![Main view of Charles Bridge](main.jpg)
+![Main view of Charles Bridge](main.png)
 
 The bridge is a popular tourist destination and provides stunning views of Prague Castle and the river.
 
@@ -10,6 +10,9 @@ The bridge is a popular tourist destination and provides stunning views of Pragu
 
 ![Bridge in sunset](../images/charles_bridge/main.png)  
 ![View from Charles Bridge](main.png)
+
+# test image:
+![TEST](https://raw.githubusercontent.com/Pavelioso/prague-shenanigans-data/refs/heads/main/content/charles_bridge/main.png)
 
 Welcome and enjoy, yo!
 
