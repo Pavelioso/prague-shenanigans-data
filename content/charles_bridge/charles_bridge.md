@@ -11,8 +11,7 @@ Good things to know:
 - This is probably the most "I'll just go to a half of this bridge and go back" bridge in the world - the half of the bridge close to Prague Castle is half "emptier" than it's other half. Get it?
 - The lights on the crosswalk are timed, and the button's don't change anything.
 
-# test image:
-![TEST](https://upload.wikimedia.org/wikipedia/commons/8/80/Charles_Bridge_-_Prague%2C_Czech_Republic_-_panoramio.jpg)
+
 
 Welcome and enjoy, yo!
 
