@@ -8,7 +8,7 @@
         "latitude": 50.087451,
         "longitude": 14.420671,
         "type": "Landmark",
-        "icon": "castle",
+        "icon": "",
         "tags": ["historic", "tourist hotspot", "architecture"],
         "importance": 1
       },
@@ -20,7 +20,7 @@
         "latitude": 50.086508,
         "longitude": 14.411440,
         "type": "Landmark",
-        "icon": "bridge",
+        "icon": "charles.bridge.png",
         "tags": ["historic", "tourist hotspot", "bridge"],
         "importance": 2
       }
