@@ -7,8 +7,7 @@ Charles Bridge is a historic bridge that crosses the Vltava river in Prague. It 
 The bridge is a popular tourist destination and provides stunning views of Prague Castle and the river.
 
 ## Gallery
-
-![Bridge in sunset](../images/charles_bridge/main.png)  
+ 
 ![View from Charles Bridge](main.png)
 
 # test image:
