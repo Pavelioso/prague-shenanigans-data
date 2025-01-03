@@ -10,3 +10,5 @@ The bridge is a popular tourist destination and provides stunning views of Pragu
 
 ![Bridge in sunset](../images/charles_bridge/sunset.jpg)  
 ![View from Charles Bridge](../images/charles_bridge/view.jpg)
+
+Welcome and enjoy!
