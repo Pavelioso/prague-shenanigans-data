@@ -1,29 +1,24 @@
 {
-    "pois": [
-      {
-        "id": "old_town_square",
-        "title": "Old Town Square",
-        "description": "Historic square in the heart of Prague",
-        
-        "latitude": 50.087451,
-        "longitude": 14.420671,
-        "type": "Landmark",
-        "icon": "",
-        "tags": ["historic", "tourist hotspot", "architecture"],
-        "importance": 1
-      },
-      {
-        "id": "charles_bridge",
-        "title": "Charles Bridge",
-        "description": "A famous historic bridge in Prague",
-       
-        "latitude": 50.086508,
-        "longitude": 14.411440,
-        "type": "Landmark",
-        "icon": "bridge_with_castle.png",
-        "tags": ["historic", "tourist hotspot", "bridge"],
-        "importance": 2
-      }
-    ]
-  }
-  
+  "pois": [
+    {
+      "id": "charles_bridge",
+      "title": "Charles Bridge",
+      "description": "Historic bridge in Prague.",
+      "latitude": 50.087451,
+      "longitude": 14.420671,
+      "type": "Landmark",
+      "tags": ["historic", "tourist hotspot", "architecture"],
+      "importance": 1
+    },
+    {
+      "id": "old_town_square",
+      "title": "Old Town Square",
+      "description": "Historic square in the heart of Prague.",
+      "latitude": 50.088333,
+      "longitude": 14.420556,
+      "type": "Square",
+      "tags": ["landmark", "tourism"],
+      "importance": 2
+    }
+  ]
+}
