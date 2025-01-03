@@ -12,7 +12,7 @@ Good things to know:
 - The lights on the crosswalk are timed, and the button's don't change anything.
 
 # test image:
-![TEST](https://www.grayline.com/magazine/charles-bridge-the-jewel-of-prague/)
+![TEST](https://upload.wikimedia.org/wikipedia/commons/8/80/Charles_Bridge_-_Prague%2C_Czech_Republic_-_panoramio.jpg)
 
 Welcome and enjoy, yo!
 
