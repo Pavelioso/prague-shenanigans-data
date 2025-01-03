@@ -12,3 +12,10 @@ The bridge is a popular tourist destination and provides stunning views of Pragu
 ![View from Charles Bridge](../images/charles_bridge/view.jpg)
 
 Welcome and enjoy!
+
+In this case I need to get the text a bit longer, 
+does the scroll box work... 
+## DOES THE SCROLL BOX WORK, MAN?
+
+I am quite certain it should be still. 
+What is certainty? It's definitely not definive. It's just there. Present. 
