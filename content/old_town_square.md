@@ -11,3 +11,5 @@ Old Town Square is a historic square located in the heart of Prague. It is surro
 
 2. Týn Church
    ![Týn Church](../images/old_town_square/tyn_church.jpg)
+
+Another line.
