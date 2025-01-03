@@ -6,12 +6,13 @@ Charles Bridge is a historic bridge that crosses the Vltava river in Prague. It 
 
 The bridge is a popular tourist destination and provides stunning views of Prague Castle and the river.
 
-## Gallery
- 
-![View from Charles Bridge](main.png)
+Good things to know:
+- Go early in the morning if you want to have surreal atmosphere.
+- This is probably the most "I'll just go to a half of this bridge and go back" bridge in the world - the half of the bridge close to Prague Castle is half "emptier" than it's other half. Get it?
+- The lights on the crosswalk are timed, and the button's don't change anything.
 
 # test image:
-![TEST](https://raw.githubusercontent.com/Pavelioso/prague-shenanigans-data/refs/heads/main/content/charles_bridge/main.png)
+![TEST](https://www.grayline.com/magazine/charles-bridge-the-jewel-of-prague/)
 
 Welcome and enjoy, yo!
 
